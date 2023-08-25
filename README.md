@@ -16,4 +16,4 @@ Alex Quistberg and Dustin Fry
 * CANVAS Audit Experience
 * AI Image Identification
 ### :40 - :50
-* Preparing Data for Analysis
+* [Preparing Data for Analysis](data/data.md)
